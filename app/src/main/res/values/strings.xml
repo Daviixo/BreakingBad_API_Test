@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BreakingBad_API_Test</string>
+    <string name="key_character">BreakingBad_API_Test</string>
+    <string name="key_validar_primera_vez">kvalidate</string>
+</resources>
